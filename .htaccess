@@ -1,0 +1,3 @@
+# .htaccess
+# Optional security hardening (requires Apache AllowOverride enabled)
+Options -Indexes
